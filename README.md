@@ -24,3 +24,7 @@
 
 1. Building Video AI applications at the Edge on Jetson Nano (Dec. 2022)
 2. Getting Started with AI on Jetson Nano (Dec. 2022)
+
+**Publications: Google Scholar Profile**
+
+https://scholar.google.com/citations?hl=en&user=A6_9KUYAAAAJ
