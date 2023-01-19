@@ -1,11 +1,12 @@
 **Center for Continuing Education (CCE), IISc, Bangalore**
 
 1.	Artificial Intelligence for Medical Image Analysis(Aug 2022 to Dec 2022)
-2.	HPC for Data Science (Jan. 2021 to May 2021)
-3.	Mathematical Modeling for Image Processing and Computer Vision (Jan. 2019 - May. 2019).
-4.	Embedded Computing for IoT Systems” by IEEE BLP (May 2018 - Aug. 2018).
-5.	Communication Protocol Design and Testing (Jan. 2012 - May 2012).
-6.	Embedded Systems Design using Microcontrollers (Jan. 2012 - May 2012).
+   (https://github.com/rrtechconnect/Medical-Image-Processing/tree/main/AI_for_Medical_Image_Analysis)
+3.	HPC for Data Science (Jan. 2021 to May 2021)
+4.	Mathematical Modeling for Image Processing and Computer Vision (Jan. 2019 - May. 2019).
+5.	Embedded Computing for IoT Systems” by IEEE BLP (May 2018 - Aug. 2018).
+6.	Communication Protocol Design and Testing (Jan. 2012 - May 2012).
+7.	Embedded Systems Design using Microcontrollers (Jan. 2012 - May 2012).
 
 **Coursera**
 
