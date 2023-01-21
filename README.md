@@ -32,12 +32,12 @@ https://scholar.google.com/citations?hl=en&user=A6_9KUYAAAAJ
 
 
 
-PROFESSIONAL MEMBERSHIP:
+**PROFESSIONAL MEMBERSHIP**
 
 Student member: IEEE Engineering in Medicine and Biology & IEEE Signal Processing Society.
 
 
-WORKSHOPS AND CONFERENCES:
+**WORKSHOPS AND CONFERENCES**
 
 Participated in the National workshop on “MedZest - 2016”- A forum for hands on Training and Quality Control of Medical Equipment  on 26th -27th  February 2016 Organized by Dept. of Biomedical Engineering, Dr. N.G.P.Institute of Technology & Kovai Medical Center and Hospital, Coimbatore, Tamilnadu.
 
