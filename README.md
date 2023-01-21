@@ -29,3 +29,21 @@
 **Publications: Google Scholar Profile**
 
 https://scholar.google.com/citations?hl=en&user=A6_9KUYAAAAJ
+
+
+
+PROFESSIONAL MEMBERSHIP:
+
+Student member: IEEE Engineering in Medicine and Biology & IEEE Signal Processing Society.
+
+
+WORKSHOPS AND CONFERENCES:
+
+Participated in the National workshop on “MedZest - 2016”- A forum for hands on Training and Quality Control of Medical Equipment  on 26th -27th  February 2016 Organized by Dept. of Biomedical Engineering, Dr. N.G.P.Institute of Technology & Kovai Medical Center and Hospital, Coimbatore, Tamilnadu.
+
+Participated in the workshop on “Cognitive Neurosciences & Brain-Computer Interface” on 14th -21st January 2016 Organized by Dept. of Medical Electronics, MSRIT, Bangalore.
+
+Participated in the workshop on “Image and Video Processing on Raspberry Pi using Simulink “conducted by The MathWorks, Inc. on 23rd April 2015.
+
+Participated in Dr Mahadevan Pillai Memorial CME: “Functional MRI seeking new frontiers” on 23rd Nov 2014 Organized by Dept. of Neuroimaging and Interventional Radiology, NIMHANS, Bangalore.
+
