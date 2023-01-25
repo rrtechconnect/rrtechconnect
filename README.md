@@ -1,10 +1,28 @@
+**About**
+R & D Professional with 7+ years of experience in development and engineering of solutions in AI based Intelligent Video Analytics, IoT, and Medical Signal & Imaging Domains. Skilled in Deep Learning, Machine Learning, Computer Vision and Linux System Administration.
+
+Linkedin : https://in.linkedin.com/in/rama-reddy-r-4b0ab111
+
+Skills 
+   Language 			   : Python, C/C++, MATLAB 
+   Technology 			   : Machine Learning, Deep Learning, Computer Vision
+   Platforms 			   : Linux, Windows, Docker Containerization, Kubernetes
+   AI Frameworks 		   : TensorFlow, PyTorch, Keras
+   Libraries 			   : OpenCV, Numpy, Pandas, Matplotlib, Scikit-Learn, SciPy
+   Cloud Platforms       		: AWS, Google Cloud
+   Edge Devices             	: NVIDIA- Jetson Nano, TX2, Xavier NX (DeepStream), Intel NCS (OpenVINO)
+   Virtual Instrumentation    : NI-LabVIEW, NI-myRIO-1900
+
+
+***Current Courses****
+
 **Center for Continuing Education (CCE), IISc, Bangalore**
 
 1.	Artificial Intelligence for Medical Image Analysis(Aug 2022 to Dec 2022)
    (https://github.com/rrtechconnect/Medical-Image-Processing/tree/main/AI_for_Medical_Image_Analysis)
+
 3.	HPC for Data Science (Jan. 2021 to May 2021)
 4.	Mathematical Modeling for Image Processing and Computer Vision (Jan. 2019 - May. 2019).
-5.	Embedded Computing for IoT Systems” by IEEE BLP (May 2018 - Aug. 2018).
 6.	Communication Protocol Design and Testing (Jan. 2012 - May 2012).
 7.	Embedded Systems Design using Microcontrollers (Jan. 2012 - May 2012).
 
@@ -18,18 +36,21 @@
 6.	Deep Learning Specialization by deeplearning.ai (Sept. 2018 - May 2019).
 7.	Hands-on Machine Learning with AWS and NVIDIA (Aug. 2012 – Dec 2022).
 8.	An Introduction to Practical Deep Learning by Intel (Jan. 2019 - March 2019).
-9.	An Introduction to Practical Deep Learning by UCU Irvine (Jan. 2019 - March 2019).
-10.	Machine Learning by Stanford University (Aug. 2018 - Sep. 2018)
+9.	An Introduction to Embedded Systems & IoT by UCI Irvine (Jan. 2019 - March 2019).
+10.Machine Learning by Stanford University (Aug. 2018 - Sep. 2018)
+
+11. Embedded Computing for IoT Systems” by IEEE BLP (May 2018 - Aug. 2018).
 
 **NVIDIA DLI**
 
-1. Building Video AI applications at the Edge on Jetson Nano (Dec. 2022)
-2. Getting Started with AI on Jetson Nano (Dec. 2022)
+**1. Building Video AI applications at the Edge on Jetson Nano (Dec. 2022)**
+
+**3. Getting Started with AI on Jetson Nano (Dec. 2022)**
+
 
 **Publications: Google Scholar Profile**
 
 https://scholar.google.com/citations?hl=en&user=A6_9KUYAAAAJ
-
 
 
 **PROFESSIONAL MEMBERSHIP**
