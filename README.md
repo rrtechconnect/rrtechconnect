@@ -4,13 +4,20 @@ R & D Professional with 7+ years of experience in development and engineering of
 Linkedin : https://in.linkedin.com/in/rama-reddy-r-4b0ab111
 
 Skills 
-   Language 			   : Python, C/C++, MATLAB 
-   Technology 			   : Machine Learning, Deep Learning, Computer Vision
-   Platforms 			   : Linux, Windows, Docker Containerization, Kubernetes
-   AI Frameworks 		   : TensorFlow, PyTorch, Keras
-   Libraries 			   : OpenCV, Numpy, Pandas, Matplotlib, Scikit-Learn, SciPy
+   Language 			         : Python, C/C++, MATLAB
+   
+   Technology 			         : Machine Learning, Deep Learning, Computer Vision
+   
+   Platforms 			         : Linux, Windows, Docker Containerization, Kubernetes
+   
+   AI Frameworks 		         : TensorFlow, PyTorch, Keras
+   
+   Libraries 			         : OpenCV, Numpy, Pandas, Matplotlib, Scikit-Learn, SciPy
+   
    Cloud Platforms       		: AWS, Google Cloud
+   
    Edge Devices             	: NVIDIA- Jetson Nano, TX2, Xavier NX (DeepStream), Intel NCS (OpenVINO)
+   
    Virtual Instrumentation    : NI-LabVIEW, NI-myRIO-1900
 
 
