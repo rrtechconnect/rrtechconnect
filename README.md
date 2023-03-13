@@ -55,7 +55,7 @@ Skills
 **3. Getting Started with AI on Jetson Nano (Dec. 2022)**
 
 
-**Udacity Nanodegree Program Introduction to Cybersecurity****
+******Udacity Nanodegree Program Introduction to Cybersecurity******
 
 ![image](https://user-images.githubusercontent.com/117635899/224685731-6d16d7fc-8e12-4b55-a1f8-d899827b0659.png)
 
