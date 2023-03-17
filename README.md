@@ -1,5 +1,6 @@
 **About**
-R & D Professional with 7+ years of experience in development and engineering of solutions in AI based Intelligent Video Analytics, IoT, NLP, and Medical Signal & Imaging Domains. Skilled in Deep Learning, Machine Learning, Computer Vision and Linux System Administration.
+
+R & D Professional with 7+ years of experience in development and engineering of solutions in AI based Intelligent Video Analytics, IoT, Natural Language Processing, and Medical Signal & Imaging Domains. Skilled in Deep Learning, Machine Learning, Computer Vision and Linux System Administration.
 
 Linkedin : https://in.linkedin.com/in/rama-reddy-r-4b0ab111
 
@@ -16,7 +17,7 @@ Skills
    
    Big Data Tools 		      : Spark, Hadoop, SQL
    
-   Cloud Platforms       		: AWS, Google Cloud
+   Cloud Platforms       		: AWS, Google Cloud, Microsoft Azure
    
    Edge Devices             	: NVIDIA- Jetson Nano, TX2, Xavier NX (DeepStream), Intel NCS (OpenVINO)
    
