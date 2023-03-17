@@ -13,7 +13,7 @@ Skills
    
    AI Frameworks 		         : TensorFlow, PyTorch, Keras
    
-   Libraries 			         : OpenCV, Numpy, Pandas, Matplotlib, Scikit-Learn, SciPy
+   Libraries 			         : OpenCV, Numpy, Pandas, Matplotlib, Scikit-Learn, SciPy,Spark MLlib, NLTK
    
    Big Data Tools 		      : Spark, Hadoop, SQL
    
